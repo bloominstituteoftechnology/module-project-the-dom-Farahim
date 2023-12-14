@@ -1,4 +1,4 @@
-require('@testing-library/jest-dom')
+npm testrequire('@testing-library/jest-dom')
 const { screen } = require('@testing-library/dom')
 const { moduleProject1 } = require('./frontend/index')
 
